@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+form{
+    padding: 80px;
+    display: flex;
+}
+.search{
+    display: flex;
+    flex-direction: column;
+}
